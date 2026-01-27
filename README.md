@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/freshjy/freshjy/blob/output/github-contribution-grid-snake.svg)
 
-## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freshjy&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshjy&layout=compact&theme=default)
 
