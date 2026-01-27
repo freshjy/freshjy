@@ -1,4 +1,10 @@
-## 💪 Skills
+## Contacts  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freshjeongyeop@gmail.com)](mailto:freshjeongyeop@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/정엽-백-6531563a9)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://freshjy.tistory.com/)  
+
+
+## Skills
 
 ☁️ Cloud   
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -27,7 +33,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshjy&layout=compact&theme=default)  
 
 
-![snake gif](https://github.com/freshjy/freshjy/blob/output/github-contribution-grid-snake.svg)  
+<!-- ![snake gif](https://github.com/freshjy/freshjy/blob/output/github-contribution-grid-snake.svg)  -->
 
 <!--
 **freshjy/freshjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
