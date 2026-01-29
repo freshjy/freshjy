@@ -29,7 +29,7 @@ Observability
 <!-- ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)  -->  
 
 ## 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=freshjy)](https://github.com/freshjy/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=freshjy&show_icons=true&theme=dracula)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freshjy&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshjy&layout=compact&theme=default)  
 
