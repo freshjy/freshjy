@@ -33,21 +33,12 @@ Observability
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshjy&layout=compact&theme=default)  
 
 
-
 <div align="center">
 
-<br>
-
-<a href="https://github.com/freshjy">
-  <img height=200 align="center" src="https://github-readme-stats-khaki-mu-23.vercel.app/api?username=freshjy&show_icons=true&theme=buefy&card_width=300" />
-</a>
-<a href="https://github.com/freshjy">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freshjy&layout=compact&theme=default&langs_count=8&card_width=300" />
-</a>
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freshjy&show_icons=true&card_width=300)](https://github.com/freshjy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshjy&layout=compact&card_width=300)
 
 </div>
-
 
 
 
