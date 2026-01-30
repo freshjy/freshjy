@@ -36,7 +36,8 @@ Observability
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats-khaki-mu-23.vercel.app/api?username=freshjy&show_icons=true&theme=default&card_width=300)](https://github.com/freshjy/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshjy&layout=compact&theme=default&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshjy&layout=compact&theme=default&card_width=300&cache_seconds=1800)
+
 
 </div>
 
