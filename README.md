@@ -33,6 +33,24 @@ Observability
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshjy&layout=compact&theme=default)  
 
 
+
+<div align="center">
+
+<br>
+
+<a href="https://github.com/yyoungl">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yyoungl&show_icons=true&theme=buefy&card_width=300" />
+</a>
+<a href="https://github.com/yyoungl?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyoungl&layout=compact&langs_count=8&card_width=300" />
+</a>
+
+
+</div>
+
+
+
+
 <!-- ![snake gif](https://github.com/freshjy/freshjy/blob/output/github-contribution-grid-snake.svg)  -->
 
 <!--
