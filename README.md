@@ -29,7 +29,7 @@ Observability
 <!-- ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)  -->  
 
 ## 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=freshjy)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=freshjy"/></a>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freshjy&show_icons=true&theme=default)](https://github.com/freshjy/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshjy&layout=compact&theme=default)  
 
