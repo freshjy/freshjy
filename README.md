@@ -38,11 +38,11 @@ Observability
 
 <br>
 
-<a href="https://github.com/yyoungl">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yyoungl&show_icons=true&theme=buefy&card_width=300" />
+<a href="https://github.com/freshjy">
+  <img height=200 align="center" src="https://github-readme-stats-khaki-mu-23.vercel.app/api?username=freshjy&show_icons=true&theme=buefy&card_width=300" />
 </a>
-<a href="https://github.com/yyoungl?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyoungl&layout=compact&langs_count=8&card_width=300" />
+<a href="https://github.com/freshjy?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freshjy&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 
