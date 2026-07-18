@@ -23,7 +23,7 @@ CI / CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Atlantis](https://img.shields.io/badge/Atlantis-1C72B7?style=flat&logo=terraform&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-E66D26?style=flat&logo=Argo&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=Argo&logoColor=white)
 
 Observability  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
