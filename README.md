@@ -22,6 +22,8 @@ Container / Orchestration
 CI / CD  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Atlantis](https://img.shields.io/badge/Atlantis-1C72B7?style=for-the-badge&logo=atlantis&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-E66D26?style=for-the-badge&logo=argo-cd&logoColor=white)
 
 Observability  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
